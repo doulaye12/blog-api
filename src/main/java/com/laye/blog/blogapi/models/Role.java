@@ -1,2 +1,5 @@
-package com.laye.blog.blogapi.models;public enum Role {
+package com.laye.blog.blogapi.models;
+
+public enum Role {
+    ADMIN, AUTHOR;
 }
